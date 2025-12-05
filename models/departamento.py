@@ -94,3 +94,4 @@ class Departamento:
     @property
     def updated_at(self) -> Optional[datetime]:
         return self._updated_at
+kpojpjoi
